@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of some remarkable eclipses, and the effects observ'd to ensue thereupon Being a translation from the Latin out of Alstedius's Thesaurus Chronologiæ, for the consideration of the English reader at this great eclipse of the sun, on the 13th. of September, 1699.</title>
+            <title>Thesaurus chronologiae. Selections</title>
+            <author>Alsted, Johann Heinrich, 1588-1638.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75273</idno>
+            <idno type="STC">Wing A2923A</idno>
+            <idno type="STC">ESTC R230106</idno>
+            <idno type="EEBO-CITATION">99899551</idno>
+            <idno type="PROQUEST">99899551</idno>
+            <idno type="VID">153796</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153796)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2380:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of some remarkable eclipses, and the effects observ'd to ensue thereupon Being a translation from the Latin out of Alstedius's Thesaurus Chronologiæ, for the consideration of the English reader at this great eclipse of the sun, on the 13th. of September, 1699.</title>
+                  <title>Thesaurus chronologiae. Selections</title>
+                  <author>Alsted, Johann Heinrich, 1588-1638.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Geo. Conyers, at the Golden Ring in Little Britain,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>By Johann Heinrich Alsted.--Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eclipses --  Early works to 1800.</term>
+               <term>Astronomy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153796:1"/>
+            <head>AN ACCOUNT OF SOME <hi>Remarkable Eclipſes,</hi> AND The EFFECTS obſerv'd to enſue thereupon.</head>
+            <head type="sub">Being a Tranſlation from the <hi>Latin</hi> out of <hi>Alſtedius</hi>'s <hi>Theſaurus Chronologiae,</hi> for the Conſideration of the <hi>Engliſh Reader</hi> at this <hi>GREAT ECLIPSE</hi> of the <hi>S<g ref="char:V">Ʋ</g>N,</hi> on the 13th. of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> 1699.</head>
+            <p>
+               <hi>ECLIPSES</hi> are the Chiefeſt Treaſure of <hi>Aſtronomy</hi> and <hi>Chronology,</hi> being as it were the main Baſes and infallible Characters of Time: The Principal whereof are as followeth.</p>
+            <list>
+               <head>Anno Mundi.</head>
+               <item>
+                  <hi>A. M.</hi> 3180. The firſt <hi>Eclipſe</hi> of the <hi>Sun,</hi> which Authors have taken notice of, was about the Time that <hi>Romulus</hi> was conceived; and then the <hi>Kingdom</hi> of <hi>Iſrael</hi> began to decline.</item>
+               <item>
+                  <hi>A. M.</hi> 3230. In the 28th. Year of <hi>Nabonaſſar</hi> there was an <hi>Eclipſe</hi> of the <hi>Moon,</hi> and in the Year of the World, 3235, there was another of the <hi>Sun.</hi> About this Time the <hi>Ten Tribes</hi> of <hi>Iſrael</hi> were carried away into <hi>perpetual Captivity, viz.</hi> in the Year of the World, 3228. and <hi>Romulus</hi> died, 3235: At which Time, <hi>Sennacherib,</hi> King of <hi>Aſſy<g ref="char:EOLhyphen"/>ria,</hi> the Angel of the Lord having ſlain in one Night 185000 of his Soldiers, raiſed the Siege of <hi>Jeruſalem,</hi> and fled to <hi>Nineveh;</hi> where, a little after, as he was worſhipping in the Houſe of <hi>Niſ<g ref="char:EOLhyphen"/>roch</hi> his God, <hi>Adrammelech</hi> and <hi>Sharezer,</hi> his Sons, ſmote him with the Sword, <hi>Iſa.</hi> 37.36, 37, 38.</item>
+               <item>
+                  <hi>A. M.</hi> 3329. In the 5th. Year of <hi>Nabopalaſſar</hi> was an <hi>Eclipſe</hi> of the <hi>Moon;</hi> and the Year of the World, 3343, another of the <hi>Sun.</hi> About this
+<pb facs="tcp:153796:2" rendition="simple:additions"/>
+                  <pb n="1" facs="tcp:153796:2"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:153796:3"/>Time the State of the Kingdom of <hi>Judah</hi> was grown very Corrupt; for which, various Troubles and Calamities befell them: For in the Year of the World, 3350, began the <hi>Captivity</hi> of <hi>Babylon,</hi> which laſted 70 Years; and in the Year 3360, <hi>Jeruſalem</hi> and the <hi>Temple</hi> were deſtroy'd by <hi>Nebuchadnezzar,</hi> 2 <hi>Chron.</hi> 36.</item>
+               <item>
+                  <hi>A. M.</hi> 3427. In the 7th. Year of <hi>Cambyſes,</hi> King of <hi>Perſia,</hi> was an <hi>Eclipſe</hi> of the <hi>Moon:</hi> About which Time the <hi>Jews,</hi> whom <hi>Cyrus</hi> had releaſed from the <hi>Babyloniſh Captivity,</hi> were hindered from building the Ci<g ref="char:EOLhyphen"/>ty and Temple, <hi>Ezra</hi> 1. and 4. <hi>Chap.</hi>
+               </item>
+               <item>
+                  <hi>A. M.</hi> 3459. In the 31ſt. Year of <hi>Darius Hyſtaſpes,</hi> King of <hi>Perſia,</hi> was an <hi>Eclipſe</hi> of the <hi>Moon:</hi> About which Time <hi>Miltiades,</hi> General of the <hi>Athenian</hi> Forces, gave <hi>Darius</hi> a prodigious Overthrow near <hi>Marathon.</hi> For <hi>Juſtin</hi> ſays the <hi>Perſian</hi> Army conſiſted of 600000, and <hi>Miltiades</hi> had but 10000 <hi>Athenians,</hi> and 1000 Auxiliaries of the <hi>Plataeans. Juſtin, Lib.</hi> 2.</item>
+               <item>
+                  <hi>A. M.</hi> 3469. An <hi>Eclipſe</hi> of the <hi>Sun</hi> happened when <hi>Xerxes,</hi> King of <hi>Perſia,</hi> made thoſe great Preparations againſt the <hi>Spartans,</hi> who was diſ<g ref="char:EOLhyphen"/>comfited by them near the Straits of <hi>Thermopylae</hi> and <hi>Salamis. Ju<g ref="char:EOLhyphen"/>ſtin, Ibid.</hi>
+               </item>
+               <item>
+                  <hi>A. M.</hi> 3470. There was ſeen an <hi>Eclipſe</hi> of the <hi>Sun</hi> before the Fight at <hi>Plataeae,</hi> where <hi>Mardonius,</hi> General of <hi>Xerxes</hi> Forces, received another De<g ref="char:EOLhyphen"/>feat. <hi>Juſtin, Ibid.</hi>
+               </item>
+               <item>
+                  <hi>A. M.</hi> 3519. This Year there was ſo great an <hi>Eclipſe</hi> of the <hi>Sun,</hi> that the <hi>Stars</hi> were ſeen at <hi>Noon Day:</hi> After which followed the <hi>Peloponneſian</hi> or <hi>Archidamian War,</hi> between the <hi>Lacedaemonians</hi> and <hi>Athenians.</hi>
+               </item>
+               <item>
+                  <hi>A. M.</hi> 3526. In the 8th. Year of the <hi>Peloponneſian War,</hi> was ſeen an <hi>Eclipſe</hi> of the <hi>Sun.</hi> About this Time ceaſed the <hi>Perſecution</hi> of the <hi>Jews, Darius Nothus</hi> uſurping the Empire of <hi>Perſia.</hi>
+               </item>
+               <item>
+                  <hi>A. M.</hi> 3546. About the End of the <hi>Peloponneſian War,</hi> there was an <hi>Eclipſe</hi> of the <hi>Sun:</hi> And the City of <hi>Athens</hi> was taken by <hi>Lyſander,</hi> the <hi>La<g ref="char:EOLhyphen"/>cedaemonian</hi> General.</item>
+               <item>
+                  <hi>A. M.</hi> 3619. There was an <hi>Eclipſe</hi> of the <hi>Moon:</hi> And <hi>Darius Codomannus,</hi> the laſt King of <hi>Perſia,</hi> was overcome near <hi>Arbela</hi> by <hi>Alexander the Great,</hi> who tranſlated the <hi>Monarchy</hi> from the <hi>Perſians</hi> to the <hi>Greeks.</hi>
+               </item>
+               <item>
+                  <hi>A. M.</hi> 3775. There was a <hi>great Eclipſe</hi> of the <hi>Sun:</hi> and the <hi>Moon,</hi> in the D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y-time, the Sky being clear, was darkened, while the <hi>Games,</hi> inſtituted in Honour of <hi>Apollo,</hi> or the <hi>Sun,</hi> were celebrated.</item>
+               <item>
+                  <hi>A. M.</hi> 3776. This Year was ſeen an <hi>Eclipſe</hi> of the <hi>Moon:</hi> And the Year fol<g ref="char:EOLhyphen"/>lowing that Beaſt <hi>Antiochus Epiphanes</hi> began to tyrannize. He was the 8th. King of <hi>Syria,</hi> a moſt Cruel and Bloody Tyrant: He took <hi>Jeruſalem,</hi> plundered the City, robbed the Temple, ſet up <hi>Idols</hi> therein, and by ſundry cruel Torments compelled the <hi>Jews</hi>
+                  <pb n="3" facs="tcp:153796:3"/>to tranſgreſs the Law of God, and to commit <hi>Idolatry.</hi> 2 <hi>Maccab.</hi>
+               </item>
+               <item>
+                  <hi>A. M.</hi> 3782. A <hi>great Eclipſe</hi> of the <hi>Moon</hi> was ſeen at this Time: And <hi>Per<g ref="char:EOLhyphen"/>ſeus,</hi> King of <hi>Macedonia,</hi> was conquered by <hi>Aemilius</hi> the <hi>Roman</hi> Conſul. Here ended the Kingdom of the <hi>Macedenians,</hi> being tran<g ref="char:EOLhyphen"/>ſlated from them to the <hi>Romans.</hi>
+               </item>
+               <item>
+                  <hi>A. M.</hi> The <hi>Maccabees</hi> began now to appear.</item>
+               <item>
+                  <hi>A. M.</hi> 3905. About the Time that <hi>Julius Caeſar</hi> was ſlain, there happened an <hi>Eclipſe</hi> of the <hi>Moon.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Anno Chriſti.</head>
+               <item>
+                  <hi>A. C.</hi> 35. At the Time of the <hi>Paſſion</hi> of <hi>Chriſt</hi> upon the <hi>Croſs,</hi> the <hi>Sun</hi> and <hi>Moon</hi> were totally <hi>Eclipſed, Mat.</hi> 27. <hi>Mar.</hi> 15. But this was plainly <hi>ſupernatural:</hi> For the <hi>Eclipſes</hi> of the <hi>Sun</hi> ordinarily hap<g ref="char:EOLhyphen"/>pen in the <hi>New. Moon,</hi> but this happened in the <hi>Full:</hi> Which is evident from hence, becauſe the <hi>Jews</hi> kept the <hi>Paſſover,</hi> by God's own Appointment, in the <hi>Full Moon.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> 45. In the 1ſt. Year of <hi>Auguſtus Caeſar</hi> there was an <hi>Eclipſe</hi> of the <hi>Sun. Herod Agrippa</hi> was ſmitten by the Angel of the Lord, <hi>Acts</hi> 12.23. There was alſo a great <hi>Famine</hi> in <hi>Syria.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> 59. An <hi>Eclipſe</hi> of the <hi>Sun</hi> preceded the <hi>Firſt Perſecution</hi> under <hi>Nero,</hi> which began in the Year 65.</item>
+               <item>
+                  <hi>A. C.</hi> 317. There was an <hi>Eclipſe</hi> of the <hi>Sun</hi> this Year, when <hi>Arius</hi> began to publiſh his <hi>Opinions.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> 348. There was a very great <hi>Eclipſe</hi> of the <hi>Sun,</hi> when the <hi>Arians</hi> pre<g ref="char:EOLhyphen"/>vailed.</item>
+               <item>
+                  <hi>A. C.</hi> 360. The <hi>Sun</hi> was <hi>Eclipſed</hi> from Morning until Noon.</item>
+               <item>
+                  <hi>A. C.</hi> 393. An <hi>Eclipſe</hi> of the <hi>Sun</hi> was ſeen, and then the <hi>Roman Empire</hi> was divided under <hi>Honorius</hi> and <hi>Arcadius.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> 404. Another <hi>Eclipſe</hi> of the <hi>Sun:</hi> And in the Year 410, <hi>Alaricus,</hi> King of the <hi>Goths,</hi> took and ſack'd the City of <hi>Rome.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> 527. This Year was another <hi>Eclipſe</hi> of the <hi>Sun:</hi> And the <hi>Goths</hi> made great Spoil and Devaſtation over the <hi>Roman Empire.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> 592. The <hi>Sun</hi> was <hi>Eclipſed:</hi> And in the Year 606, <hi>Phocas,</hi> who mur<g ref="char:EOLhyphen"/>thered the Emperor <hi>Mauritius,</hi> and his <hi>Wife</hi> and <hi>Children,</hi> eſta<g ref="char:EOLhyphen"/>bliſh'd the <hi>Pope's Supremacy.</hi> And in the Year 622 the Impoſtor <hi>Mahomet</hi> appeared.</item>
+               <item>
+                  <hi>A. C.</hi> 733. There was an <hi>Eclipſe</hi> of the <hi>Sun:</hi> And then began the Contro<g ref="char:EOLhyphen"/>verſie about <hi>Image-Worſhip.</hi> The <hi>Eaſtern Chriſtians</hi> oppoſed, and the <hi>Weſtern</hi> approved it; though <hi>Damaſcen</hi> in the <hi>Eaſt</hi> wrote in behalf of <hi>Images.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> 796. The <hi>Sun</hi> was <hi>Eclipſed</hi> for 17 Days together; and the Darkneſs was ſo great, that the Ships could not ſail. <hi>Bellarmine,</hi> in his <hi>Chronology,</hi> places this wonderful Prodigy at the Year 797.</item>
+               <item>
+                  <hi>A. C.</hi> 803. The <hi>Moon</hi> was thrice <hi>Eclipſed,</hi> and the <hi>Sun</hi> once.</item>
+               <pb n="4" facs="tcp:153796:4" rendition="simple:additions"/>
+               <item>
+                  <hi>A. C.</hi> 806. There was an <hi>Eclipſe</hi> of the <hi>Sun.</hi> About this Time, there was a great Change under the Empe<g ref="char:EOLhyphen"/>ror <hi>Charles the Great;</hi> the Empire being then divided into the <hi>Eaſt<g ref="char:EOLhyphen"/>ern</hi> and <hi>Weſtern,</hi> and the <hi>Chriſtian Religion</hi> largely propagated.</item>
+               <item>
+                  <hi>A. C.</hi> 807. There were 3 <hi>Eclipſes;</hi> one of the <hi>Sun,</hi> and two of the <hi>Moon.</hi> About this Time, there was a great Change under the Empe<g ref="char:EOLhyphen"/>ror <hi>Charles the Great;</hi> the Empire being then divided into the <hi>Eaſt<g ref="char:EOLhyphen"/>ern</hi> and <hi>Weſtern,</hi> and the <hi>Chriſtian Religion</hi> largely propagated.</item>
+               <item>
+                  <hi>A. C.</hi> 809. The <hi>Moon</hi> was <hi>Eclipſed.</hi> About this Time, there was a great Change under the Empe<g ref="char:EOLhyphen"/>ror <hi>Charles the Great;</hi> the Empire being then divided into the <hi>Eaſt<g ref="char:EOLhyphen"/>ern</hi> and <hi>Weſtern,</hi> and the <hi>Chriſtian Religion</hi> largely propagated.</item>
+               <item>
+                  <hi>A. C.</hi> 810. There were 3 <hi>Eclipſes;</hi> one of the <hi>Sun,</hi> and two of the <hi>Moon.</hi> About this Time, there was a great Change under the Empe<g ref="char:EOLhyphen"/>ror <hi>Charles the Great;</hi> the Empire being then divided into the <hi>Eaſt<g ref="char:EOLhyphen"/>ern</hi> and <hi>Weſtern,</hi> and the <hi>Chriſtian Religion</hi> largely propagated.</item>
+               <item>
+                  <hi>A. C.</hi> 812. This Year an <hi>Eclipſe</hi> of the <hi>Sun</hi> preceded the Death of <hi>Charles the Great.</hi> This was a <hi>prodigious Eclipſe;</hi> for, as <hi>Eginhard</hi> wri<g ref="char:EOLhyphen"/>teth in the Life of <hi>Charles the Great,</hi> a <hi>Black Spot</hi> appeared in the <hi>Sun</hi> for ſeven Days.</item>
+               <item>
+                  <hi>A. C.</hi> This Prodigy, as <hi>Alſtedius</hi> conjectures, undoubtedly portended the <hi>Eclipſe</hi> of the <hi>Goſpel</hi> under the <hi>Popes</hi> of <hi>Rome;</hi> who, being en<g ref="char:EOLhyphen"/>riched by <hi>Charles the Great,</hi> and his Father <hi>Pipin,</hi> began to aſpire to <hi>Secular Power</hi> and <hi>Juriſdiction.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> Some place this <hi>Eclipſe</hi> at the Year 814; but then they are to be underſtood according to the more <hi>exact Account</hi> of Time, which differs two Years from the <hi>Vulgar Computation.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> 831. There were 3 <hi>Eclipſes;</hi> one of the <hi>Sun,</hi> and two of the <hi>Moon.</hi> About this Time <hi>Ludovicus Pius,</hi> King of <hi>France,</hi> was taken by his Sons, and caſt into Priſon; and the <hi>Eccleſiaſticks</hi> took too much upon them in <hi>State Affairs.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> 840. There was a very <hi>great Eclipſe</hi> of the <hi>Sun,</hi> ſo that the <hi>Stars</hi> could no more be ſeen, than in the darkeſt Night. The ſame hap<g ref="char:EOLhyphen"/>pened again in the Year 899.</item>
+               <item>
+                  <hi>A. C.</hi> 1290. An <hi>Eclipſe</hi> of the <hi>Sun</hi> preceded the <hi>ſetting up</hi> of the <hi>Ottoman Empire.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> 1387. Upon the <hi>Nones,</hi> or 5th. of <hi>November,</hi> there was ſuch an <hi>Eclipſe</hi> of the <hi>Sun,</hi> as the like was hardly ſeen.</item>
+               <item>
+                  <hi>A. C.</hi> 1415. On the 7th. of the 4th. Month, in the Morning, being the 6th. Day of the Week, there was ſuch a <hi>dreadful Eclipſe</hi> of the <hi>Sun,</hi> that the Birds of the Air fell to the Ground.</item>
+               <item>
+                  <hi>A. C.</hi> This Year, upon the 6th. of the 5th. Month, <hi>John Huſs,</hi> that <hi>Faithful Martyr of Chriſt,</hi> was burnt by the <hi>perfidious Council</hi> of <hi>Conſtance.</hi>
+               </item>
+               <item>
+                  <hi>A. C.</hi> 1544. There were four <hi>Eclipſes;</hi> one of the <hi>Sun,</hi> and three of the <hi>Moon.</hi> About this Time began the <hi>Smalcaldian War,</hi> and various <hi>Stirs</hi> and <hi>Agitations</hi> about <hi>Religion.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Geo. Conyers,</hi> at the <hi>Golden Ring</hi> in <hi>Little Britain.</hi> 1699.</p>
+            <pb facs="tcp:153796:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
